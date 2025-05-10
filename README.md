@@ -15,28 +15,39 @@ This is a simple full-stack banking system built with **Spring Boot** for the ba
 
 ---
 
-## 🛠️ Tech Stack
-
-## Tech Stack
+# Tech Stack
 
 ### Frontend  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> <strong>HTML5</strong>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> <strong>CSS3</strong>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> <strong>JavaScript</strong>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/> <strong>Bootstrap</strong>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/> <strong>Tailwind CSS</strong>
 </p>
 
 ### Backend  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/JDBC-336791?logo=java&logoColor=white" alt="JDBC" height="25"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6F61?logo=rest&logoColor=white" alt="REST API" height="25"/>
-  <img src="https://img.shields.io/badge/CRUD_Operations-4CAF50?logo=data&logoColor=white" alt="CRUD" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> <strong>Java</strong>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/> <strong>Spring Boot</strong>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="30" height="30"/> <strong>SQL</strong>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JDBC-336791?logo=java&logoColor=white" alt="JDBC" height="25"/> <strong>JDBC</strong>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST_API-FF6F61?logo=rest&logoColor=white" alt="REST API" height="25"/> <strong>REST API</strong>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CRUD_Operations-4CAF50?logo=data&logoColor=white" alt="CRUD" height="25"/> <strong>CRUD Operations</strong>
 </p>
+
+This layout ensures:
+
+Icons appear next to names
+
+Frontend and Backend are clearly separated
+
+HTML-compatible, so works great in GitHub READMEs
+
+
+Would you like this in a downloadable .md file too?
+
+
 ---
 
 ## 📁 Project Structure
