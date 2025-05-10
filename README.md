@@ -15,7 +15,7 @@ This is a simple full-stack banking system built with **Spring Boot** for the ba
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ### Frontend  
 <p align="left">
@@ -23,7 +23,7 @@ This is a simple full-stack banking system built with **Spring Boot** for the ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> <strong>CSS3</strong>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> <strong>JavaScript</strong>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/> <strong>Bootstrap</strong>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/> <strong>Tailwind CSS</strong>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/> <strong>Tailwind CSS</strong>
 </p>
 
 ### Backend  
@@ -35,17 +35,6 @@ This is a simple full-stack banking system built with **Spring Boot** for the ba
   <img src="https://img.shields.io/badge/REST_API-FF6F61?logo=rest&logoColor=white" alt="REST API" height="25"/> <strong>REST API</strong>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CRUD_Operations-4CAF50?logo=data&logoColor=white" alt="CRUD" height="25"/> <strong>CRUD Operations</strong>
 </p>
-
-This layout ensures:
-
-Icons appear next to names
-
-Frontend and Backend are clearly separated
-
-HTML-compatible, so works great in GitHub READMEs
-
-
-Would you like this in a downloadable .md file too?
 
 
 ---
